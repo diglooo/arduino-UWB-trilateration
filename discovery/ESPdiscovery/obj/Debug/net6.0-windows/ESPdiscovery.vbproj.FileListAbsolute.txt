@@ -1,0 +1,17 @@
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\bin\Debug\net6.0-windows\ESPdiscovery.exe
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\bin\Debug\net6.0-windows\ESPdiscovery.deps.json
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\bin\Debug\net6.0-windows\ESPdiscovery.runtimeconfig.json
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\bin\Debug\net6.0-windows\ESPdiscovery.dll
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\bin\Debug\net6.0-windows\ESPdiscovery.pdb
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.vbproj.AssemblyReference.cache
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.Form1.resources
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.vbproj.GenerateResource.cache
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.AssemblyInfoInputs.cache
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.AssemblyInfo.vb
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.vbproj.CoreCompileInputs.cache
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.dll
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\refint\ESPdiscovery.dll
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.pdb
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ESPdiscovery.genruntimeconfig.cache
+C:\Users\diglo\Documents\Arduino\UWB_base\discovery\ESPdiscovery\obj\Debug\net6.0-windows\ref\ESPdiscovery.dll
