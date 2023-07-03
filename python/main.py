@@ -60,4 +60,4 @@ if __name__ == '__main__':
     client.on_message = on_message
     client.username_pw_set("user", "pass")
     client.connect('127.0.0.1', 1883)
-    client.loop_forever()  # Start networking daemon
+    client.loop_forever()

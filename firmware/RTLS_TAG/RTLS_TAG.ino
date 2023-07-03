@@ -153,7 +153,7 @@ void setup() {
   DW1000Ng::setPreambleDetectionTimeout(15);
   DW1000Ng::setSfdDetectionTimeout(273);
   DW1000Ng::setReceiveFrameWaitTimeoutPeriod(2000);
-  //DW1000Ng::setTXPower(0x0E082848L);
+  DW1000Ng::setTXPower(0x0E082848L);
   DW1000Ng::enableDebounceClock();
   DW1000Ng::enableLedBlinking();
   DW1000Ng::setGPIOMode(MSGP0, LED_MODE);

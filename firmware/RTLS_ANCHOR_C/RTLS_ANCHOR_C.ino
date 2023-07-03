@@ -157,8 +157,8 @@ void setup() {
   DW1000Ng::setReceiveFrameWaitTimeoutPeriod(5000);
   DW1000Ng::setNetworkId(RTLS_APP_ID);
   DW1000Ng::setDeviceAddress(anchor_address);
-  DW1000Ng::setAntennaDelay(16436);
-  //DW1000Ng::setTXPower(0x0E082848L);
+  DW1000Ng::setAntennaDelay(16500);
+  DW1000Ng::setTXPower(0x0E082848L);
   DW1000Ng::enableDebounceClock();
   DW1000Ng::enableLedBlinking();
   DW1000Ng::setGPIOMode(MSGP0, LED_MODE);
