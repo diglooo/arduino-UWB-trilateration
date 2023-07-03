@@ -3,6 +3,7 @@ import json
 from easy_trilateration.model import *
 from easy_trilateration.least_squares import easy_least_squares
 import numpy
+import matplotlib
 import matplotlib.pyplot as plt
 
 distmap = {}

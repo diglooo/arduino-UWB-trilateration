@@ -35,11 +35,10 @@ String pubTopic;
 
 const uint8_t PIN_RST = 0xFF;
 const uint8_t PIN_SS = 17;  // spi select pin
-char EUI[] = "AA:BB:CC:DD:EE:FF:00:02";
+char EUI[] = "AA:BB:CC:DD:EE:FF:00:03";
 uint16_t anchor_address = 3;
-uint16_t next_anchor = 4;
 float range_self;
-uint16_t blink_rate = 100;
+uint16_t blink_rate = 250;
 
 device_configuration_t DEFAULT_CONFIG = {
   false,
@@ -48,7 +47,7 @@ device_configuration_t DEFAULT_CONFIG = {
   true,
   false,
   SFDMode::STANDARD_SFD,
-  Channel::CHANNEL_1,
+  Channel::CHANNEL_5,
   DataRate::RATE_850KBPS,
   PulseFrequency::FREQ_16MHZ,
   PreambleLength::LEN_256,
@@ -195,6 +194,7 @@ void setup() {
   DW1000Ng::getPrintableDeviceMode(msg);
   Serial.print("Device mode: ");
   Serial.println(msg);
+  u8g2.drawStr(0, 48, msg);
   u8g2.sendBuffer();
 }
 

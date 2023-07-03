@@ -27,7 +27,6 @@ char EUI[] = "AA:BB:CC:DD:EE:FF:00:02";
 uint16_t anchor_address = 2;
 uint16_t next_anchor = 3;
 float range_self;
-uint16_t blink_rate = 200;
 
 device_configuration_t DEFAULT_CONFIG = {
   false,
@@ -36,7 +35,7 @@ device_configuration_t DEFAULT_CONFIG = {
   true,
   false,
   SFDMode::STANDARD_SFD,
-  Channel::CHANNEL_1,
+  Channel::CHANNEL_5,
   DataRate::RATE_850KBPS,
   PulseFrequency::FREQ_16MHZ,
   PreambleLength::LEN_256,

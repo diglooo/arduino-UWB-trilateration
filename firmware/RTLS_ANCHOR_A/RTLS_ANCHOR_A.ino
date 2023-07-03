@@ -28,7 +28,7 @@ uint16_t next_anchor = 2;
 float range_self;
 
 byte target_eui[8];
-byte tag_shortAddress[] = { 0x05, 0x00 };
+byte tag_shortAddress[] = { 0xFF, 0xFF };
 
 device_configuration_t DEFAULT_CONFIG = {
   false,
@@ -37,7 +37,7 @@ device_configuration_t DEFAULT_CONFIG = {
   true,
   false,
   SFDMode::STANDARD_SFD,
-  Channel::CHANNEL_1,
+  Channel::CHANNEL_5,
   DataRate::RATE_850KBPS,
   PulseFrequency::FREQ_16MHZ,
   PreambleLength::LEN_256,
